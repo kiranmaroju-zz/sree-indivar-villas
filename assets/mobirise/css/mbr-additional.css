@@ -12,7 +12,7 @@
 #dropdown-menu-2btn-0 .nav .link,
 #dropdown-menu-2btn-0 .dropdown-item {
   font-size: 1.2em;
-  color: #000000;
+  color: #d9534f;
 }
 #dropdown-menu-2btn-0 .navbar,
 #dropdown-menu-2btn-0 .dropdown-menu {
@@ -24,12 +24,15 @@
   background: #f5f5f5;
 }
 #dropdown-menu-2btn-0 .navbar-toggler {
-  color: #000000;
+  color: #d9534f;
 }
 #slider-1 H2 {
-  color: #ffffff;
+  color: #d9534f;
   font-size: 23px;
   font-family: 'Playfair Display', sans-serif;
+}
+#slider-1 B {
+  color: #d9534f;
 }
 #content5-3 DIV {
   text-align: left;
