@@ -186,43 +186,49 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2017-12-30-512x384-512x384.jpg",
                 "alt": "",
                 "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-1-534x367.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-534x367-534x367.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3bhk-400x208.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3bhk-400x208-400x208.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/aerial-400x204.png",
+                "thumb": "@PROJECT_PATH@/assets/images/aerial-400x204-400x204.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bhudvel-it-park-1057x359.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bhudvel-it-park-1057x359-800x272.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/here-are-the-proposed-five-corridors-in-hyderabad-metro-phase-2-604x453.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/here-are-the-proposed-five-corridors-in-hyderabad-metro-phase-2-604x453-604x453.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hyderabad-metro-route-phase2-1217x851.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hyderabad-metro-route-phase2-1217x851-800x559.jpg",
+                "alt": "",
+                "title": "",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-5-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-7.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-7-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
-                "alt": "",
-                "title": ""
               }
             ]
           },
