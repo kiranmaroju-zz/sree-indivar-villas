@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #000000;
+}
+#slider-1 H2 {
+  color: #ffffff;
+  font-size: 23px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#content5-3 DIV {
+  text-align: left;
+}
